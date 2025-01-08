@@ -63,21 +63,7 @@ This project presents an analysis of **primary school teaching departments** and
 - **Power BI Proje Dosyası / Power BI Project File**:
   - Power Bı Sınıf Öğretmenliği.pbix
 
-## Nasıl Katkıda Bulunabilirsiniz? / How to Contribute?
 
-1. Projeyi klonlayın / Clone the project:
-   ```bash
-   git clone https://github.com/kullanici_adi/sinif-ogretmenligi-analizi.git
-   ```
-2. Yeni veri görselleştirme önerileri veya analiz eklemeleri yapın / Propose new visualizations or add analyses.
-3. Çekme isteği (pull request) oluşturun / Submit a pull request.
-
-## Lisans / License
-
-Bu proje MIT Lisansı altında sunulmuştur.
-This project is licensed under the MIT License.
-
----
 
 Bu proje, veri görselleştirme teknikleri dersinin bir ödevi olarak hazırlanmıştır ve eğitim amacıyla kullanılmaktadır. Katkılarınız için teşekkür ederiz!
 This project was prepared as an assignment for a data visualization techniques course and is intended for educational purposes. Thank you for your contributions!
